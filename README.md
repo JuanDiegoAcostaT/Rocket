@@ -1,6 +1,6 @@
 # Rocket
 
-Push your Rocket
+A rocket which you can drive as you like and see it in a wonderful galaxy through programming
 
 -Html
 -Css
